@@ -8,3 +8,15 @@ __DATA__
 satoshi azuma
 ytnobody at gmail dot com
 YTNOBODY::Mock::Repository
+#     DBH
+#     DSL
+#     Iroha
+#     ORM
+#     dbh
+#     Kaiji
+#     attr
+#     DPath
+#     JSON
+#     STDIN
+#     json
+#     sneecr
