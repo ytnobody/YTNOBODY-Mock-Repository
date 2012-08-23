@@ -1,0 +1,3 @@
+[submodule "submodule/YTNOBODY-Mock-Repository-SubModuleX"]
+	path = submodule/YTNOBODY-Mock-Repository-SubModuleX
+	url = git://github.com/ytnobody/YTNOBODY-Mock-Repository-SubModuleX.git
