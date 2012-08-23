@@ -1,6 +1,0 @@
-[submodule "submodule/Iroha"]
-	path = submodule/Iroha
-	url = git://github.com/ytnobody/Iroha.git
-[submodule "submodule/App-Sneecr"]
-	path = submodule/App-Sneecr
-	url = git://github.com/ytnobody/App-Sneecr.git
